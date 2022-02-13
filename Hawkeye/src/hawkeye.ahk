@@ -56,5 +56,4 @@ return
 
 ; Custom hotstrings
 #Include %A_ScriptDir%\custom\hotstrings.ahk
-#Include %A_ScriptDir%\custom\hotstrings_home.ahk
 #Include %A_ScriptDir%\custom\throwaway_hotstrings.ahk
